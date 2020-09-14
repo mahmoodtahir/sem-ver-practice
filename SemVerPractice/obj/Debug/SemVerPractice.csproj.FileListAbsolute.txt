@@ -83,3 +83,4 @@ C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPra
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.csproj.CopyComplete
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.dll
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.pdb
+C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\GitVersionInformation.g.cs
