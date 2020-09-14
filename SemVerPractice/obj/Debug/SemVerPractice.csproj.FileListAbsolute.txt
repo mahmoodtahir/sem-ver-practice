@@ -78,9 +78,9 @@ C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\bin\System.Web.WebP
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\bin\System.Web.WebPages.Razor.xml
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\bin\Antlr3.Runtime.pdb
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.csprojAssemblyReference.cache
+C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\GitVersionInformation.g.cs
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.csproj.CoreCompileInputs.cache
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.csproj.CopyComplete
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.dll
 C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.pdb
-C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\GitVersionInformation.g.cs
-C:\Users\mtahir\source\repos\sem-ver-practice\SemVerPractice\obj\Debug\SemVerPractice.csprojAssemblyReference.cache
